@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">A Quiz Of Ice And Fire</string>
+
+    <!-- Header text for the title of the app -->
+    <string name="title">A Quiz Of Ice And Fire</string>
+
+    <!-- Quote text -->
+    <string name="quote">\"For the night is dark and full of quizzes.\"</string>
+
+    <!-- Text for quiz questions -->
+    <string name="first">What is the name of Eddard Stark\'s elder brother?</string>
+    <string name="second">Who of the following is NOT a bastard of Robert Baratheon?</string>
+    <string name="third">What are the words of House Lannister?</string>
+    <string name="fourth">Select all of the northern houses:</string>
+    <string name="fifth">Which of these is not a faith followed in Westeros?</string>
+    <string name="sixth">What was the name of Oberyn and Doran\'s sister?</string>
+    <string name="seventh">What are the words of House Mormont?</string>
+    <string name="eighth">Choose the correct sigil for House Greyjoy:</string>
+
+    <!-- Text for quiz answers with radio buttons -->
+    <string name="choice1">Rickard</string>
+    <string name="choice2">Benjen</string>
+    <string name="choice3">Brandon</string>
+    <string name="choice4">Torrhen</string>
+
+    <string name="choice5">Mya Stone</string>
+    <string name="choice6">Edric Storm</string>
+    <string name="choice7">Gendry</string>
+    <string name="choice8">Rolland Storm</string>
+
+    <string name="choice9">Drowned God</string>
+    <string name="choice10">Faith of the Seven</string>
+    <string name="choice11">Many-Faced God</string>
+    <string name="choice12">Mother Rhoyne</string>
+
+    <string name="choice13">Ellaria</string>
+    <string name="choice14">Elia</string>
+    <string name="choice15">Rhaella</string>
+    <string name="choice16">Rhaenys</string>
+
+    <string name="choice17">Here We Stand</string>
+    <string name="choice18">Ours is the Fury</string>
+    <string name="choice19">Our Blades are Sharp</string>
+    <string name="choice20">Growing Strong</string>
+
+    <!-- Text for quiz answers with checkboxes -->
+    <string name="cb_1">Glover</string>
+    <string name="cb_2">Umber</string>
+    <string name="cb_3">Karstark</string>
+    <string name="cb_4">Dayne</string>
+    <string name="cb_5">Frey</string>
+    <string name="cb_6">Manderly</string>
+
+</resources>
